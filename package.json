@@ -1,0 +1,22 @@
+{
+  "name": "drop-down-menu",
+  "version": "1.0.0",
+  "description": "Shows hidden menu elements when hovering over the menu title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RT44n/drop-down-menu.git"
+  },
+  "keywords": [
+    "drop-down-menu"
+  ],
+  "author": "Rahul Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RT44n/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/RT44n/drop-down-menu#readme"
+}
